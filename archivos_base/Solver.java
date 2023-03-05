@@ -63,9 +63,9 @@ public class Solver{
         //Implemente su metodo aqui. Sientase libre de implementar métodos adicionales
         List<String> soluciones = new ArrayList<>();
         //String[] Arraysoluciones = soluciones.stream().toArray
-
+        String vacio = "[]";
         
-        return Norte();
+        return vacio;
     }
 
 }
